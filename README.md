@@ -16,14 +16,14 @@ one-evue是基于OneOS开发的嵌入式（embedded）vue框架，用于开发�
 
 [lvgl/lv_binding_js(github.com)](https://github.com/lvgl/lv_binding_js)
 
-**项目导师**
+### 项目导师
 
 庞超
 
 - Gitee chao(https://gitee.com/pc-courage)
 - email pangchao@cmiot.chinamobile.com
 
-**难度**
+### 难度
 
 中等
 
